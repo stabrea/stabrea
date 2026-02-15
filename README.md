@@ -57,6 +57,8 @@ I'm a Finance & Cybersecurity (CIS) student at **Georgia State University** with
 | [Financial Risk Analyzer](https://github.com/stabrea/financial-risk-analyzer) | Portfolio risk analysis with Monte Carlo simulation | Python, numpy |
 | [NetSec Toolkit](https://github.com/stabrea/netsec-toolkit) | Network security scanner & vulnerability assessment | Python |
 | [CryptoGuard](https://github.com/stabrea/cryptoguard) | Encryption toolkit for file security & password analysis | Python, cryptography |
+| [SQL Financial Analytics](https://github.com/stabrea/sql-financial-analytics) | Advanced financial database analytics portfolio | SQL, MySQL, PostgreSQL |
+| [CTF Writeups](https://github.com/stabrea/ctf-writeups) | Capture The Flag security challenge solutions | Python, Wireshark |
 | [EDILAS](https://github.com/stabrea/EDILAS) | Dark survival RPG game | TypeScript, Canvas2D |
 
 ---
