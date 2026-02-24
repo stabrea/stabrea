@@ -13,7 +13,7 @@
 
 I'm a dual-degree **BBA Finance & CIS (Cybersecurity)** student at **Georgia State University's Honors College** with hands-on experience in tax compliance automation, financial analysis, and security tooling. I build software that solves real problems at the intersection of finance, cybersecurity, and data.
 
-- Building [EDILAS](https://stabrea.github.io/edilas-game/) — a browser-based dark survival RPG with **98 source modules**, **37+ concurrent systems**, and **1,425 automated tests** (TypeScript, Phaser 3, bitECS)
+- 🎮 Currently building **EDILAS** — a dark survival RPG with 98 modules, 1,425 tests, and 37+ systems. [Play it live](https://stabrea.github.io/edilas-game/)
 - Previously a **Tax Associate Intern** — built automated compliance tools that reduced filing time by 95% and surfaced $47,000+ in recoverable overpayments
 - **CompTIA Security+ Certified** (SY0-701) | **Certified Scrum Master**
 
@@ -52,7 +52,7 @@ I'm a dual-degree **BBA Finance & CIS (Cybersecurity)** student at **Georgia Sta
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [EDILAS — Dark Survival RPG](https://stabrea.github.io/edilas-game/) | Browser-based RPG: 98 modules, 37 systems, 1,425 tests, ECS architecture | TypeScript, Phaser 3, bitECS |
+| [EDILAS — Dark Survival RPG](https://stabrea.github.io/edilas-game/) | Dark survival RPG — 98 modules, 1,425 tests, 37+ systems | TypeScript, Phaser 3, bitECS |
 | [Fraud Detection System](https://github.com/stabrea/fraud-detection-system) | ML pipeline with 93% precision and 0.92 AUC using Random Forest + Isolation Forest | Python, scikit-learn, SHAP |
 | [Sentinel — File Integrity Monitor](https://github.com/stabrea/sentinel) | Systems-level CLI for real-time filesystem monitoring and compliance reporting | Rust |
 | [NetSec Toolkit](https://github.com/stabrea/netsec-toolkit) | Multi-threaded network scanner with vulnerability assessment and SSL/TLS auditing | Python |
@@ -60,6 +60,14 @@ I'm a dual-degree **BBA Finance & CIS (Cybersecurity)** student at **Georgia Sta
 | [Financial Risk Analyzer](https://github.com/stabrea/financial-risk-analyzer) | Monte Carlo simulation (10,000+ scenarios) with VaR and Sharpe ratio metrics | Python, NumPy |
 | [CryptoGuard](https://github.com/stabrea/cryptoguard) | AES-256-GCM encryption toolkit with PBKDF2 key derivation | Python |
 | [CTF Writeups](https://github.com/stabrea/ctf-writeups) | SQL injection, XSS, RSA attacks, network forensics solutions | Python, Wireshark |
+
+---
+
+### Writing
+
+- [Building an ML Fraud Detection Pipeline](https://stabrea.github.io/blog/fraud-detection.html)
+- [Automating Multi-State Tax Compliance](https://stabrea.github.io/blog/tax-compliance.html)
+- [Network Security Fundamentals](https://stabrea.github.io/blog/network-security.html)
 
 ---
 
