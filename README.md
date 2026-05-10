@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Taofik Bishi</h1>
-<h3 align="center">Finance & Cybersecurity Professional | Software Engineer | Atlanta, GA</h3>
+<h1 align="center">Taofik Bishi</h1>
+<h3 align="center">Finance + Cybersecurity + GRC / Tax Automation | Atlanta, GA</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/taofikbishi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -9,76 +9,68 @@
 
 ---
 
-### About Me
+### About
 
-I'm a dual-degree **BBA Finance & CIS (Cybersecurity)** student at **Georgia State University's Honors College** with hands-on experience in tax compliance automation, financial analysis, and security tooling. I build software that solves real problems at the intersection of finance, cybersecurity, and data.
+I'm a **Finance and Computer Information Systems student with a Cybersecurity concentration** at Georgia State University, focused on the intersection of **finance, cybersecurity, GRC, tax compliance, and automation**.
 
-- 🎮 Currently building **EDILAS** — a dark survival RPG with 98 modules, 1,425 tests, and 37+ systems. [Play it live](https://stabrea.github.io/edilas-game/)
-- Previously a **Tax Associate Intern** — built automated compliance tools that reduced filing time by 95% and surfaced $47,000+ in recoverable overpayments
-- **CompTIA Security+ Certified** (SY0-701) | **Certified Scrum Master**
+My work combines hands-on tax/compliance experience with Python, SQL, data analysis, and security tooling. I build projects that help automate compliance workflows, detect financial risk, improve audit readiness, and translate technical controls into business outcomes.
+
+- Incoming **Indirect Tax Staff Accountant / Tax Consultant** on a Bose U.S. & Canada tax assignment through GTT
+- Former **Tax Associate Intern** with multi-state sales tax, refund claim, audit documentation, and GL reconciliation exposure
+- **CompTIA Security+ Certified** with projects across GRC, fraud detection, tax automation, network security, and file integrity monitoring
+- Targeting roles in **GRC, IT risk, IT audit, tax technology, compliance analytics, fraud/risk analytics, and cybersecurity**
 
 ---
 
-### Tech Stack
+### Core Focus Areas
 
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**Security & Finance**
-
-![CompTIA Security+](https://img.shields.io/badge/CompTIA_Security+-C8202F?style=flat-square&logo=comptia&logoColor=white)
-![Network Security](https://img.shields.io/badge/Network_Security-2C2C2C?style=flat-square&logo=wireshark&logoColor=white)
-![Cryptography](https://img.shields.io/badge/Cryptography-8B0000?style=flat-square&logo=letsencrypt&logoColor=white)
-![Financial Analysis](https://img.shields.io/badge/Financial_Analysis-1a1a2e?style=flat-square)
-![Tax Compliance](https://img.shields.io/badge/Tax_Compliance-006400?style=flat-square)
-
-**Frameworks & Tools**
-
-![Phaser 3](https://img.shields.io/badge/Phaser_3-3C3C3C?style=flat-square&logo=data:image/svg+xml;base64,&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+| Area | What I Work On |
+|------|----------------|
+| Finance & Tax | Indirect tax, sales/use tax compliance, refund analysis, GL reconciliation, financial analysis |
+| GRC & IT Risk | Compliance documentation, audit readiness, access/control concepts, risk analysis, security fundamentals |
+| Automation & Data | Python, SQL, Excel workflows, validation checks, reporting, anomaly detection |
+| Cybersecurity | Security+, network security tools, cryptography concepts, file integrity monitoring, CTF practice |
 
 ---
 
 ### Featured Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [EDILAS — Dark Survival RPG](https://stabrea.github.io/edilas-game/) | Dark survival RPG — 98 modules, 1,425 tests, 37+ systems | TypeScript, Phaser 3, bitECS |
-| [Fraud Detection System](https://github.com/stabrea/fraud-detection-system) | ML pipeline with 93% precision and 0.92 AUC using Random Forest + Isolation Forest | Python, scikit-learn, SHAP |
-| [Sentinel — File Integrity Monitor](https://github.com/stabrea/sentinel) | Systems-level CLI for real-time filesystem monitoring and compliance reporting | Rust |
-| [NetSec Toolkit](https://github.com/stabrea/netsec-toolkit) | Multi-threaded network scanner with vulnerability assessment and SSL/TLS auditing | Python |
-| [Tax Compliance Engine](https://github.com/stabrea/tax-compliance-engine) | Automated multi-state sales tax compliance across all 50 states | Python, SQL |
-| [Financial Risk Analyzer](https://github.com/stabrea/financial-risk-analyzer) | Monte Carlo simulation (10,000+ scenarios) with VaR and Sharpe ratio metrics | Python, NumPy |
-| [CryptoGuard](https://github.com/stabrea/cryptoguard) | AES-256-GCM encryption toolkit with PBKDF2 key derivation | Python |
-| [CTF Writeups](https://github.com/stabrea/ctf-writeups) | SQL injection, XSS, RSA attacks, network forensics solutions | Python, Wireshark |
+| Project | Business / Security Value | Tech |
+|---------|----------------------------|------|
+| [Tax Compliance Engine](https://github.com/stabrea/tax-compliance-engine) | Multi-state sales tax automation with nexus tracking, exemption logic, filing calendars, and refund opportunity analysis | Python, SQL, PostgreSQL |
+| [Fraud Detection System](https://github.com/stabrea/fraud-detection-system) | Transaction risk scoring and anomaly detection using Random Forest and Isolation Forest models | Python, scikit-learn, pandas |
+| [SQL Financial Analytics](https://github.com/stabrea/sql-financial-analytics) | Financial database analytics for segmentation, fraud review, loan portfolio analysis, and executive reporting | SQL, MySQL, PostgreSQL |
+| [Financial Risk Analyzer](https://github.com/stabrea/financial-risk-analyzer) | Portfolio risk analysis with Monte Carlo simulation, VaR, Conditional VaR, and stress testing | Python, NumPy, R |
+| [Sentinel](https://github.com/stabrea/sentinel) | File integrity monitoring for compliance use cases including baseline tracking, change detection, and audit reporting | Rust |
+| [NetSec Toolkit](https://github.com/stabrea/netsec-toolkit) | Network security toolkit for host discovery, port scanning, vulnerability checks, and reporting | Python |
+| [CryptoGuard](https://github.com/stabrea/cryptoguard) | Encryption toolkit covering AES-256-GCM file encryption, hashing, password analysis, and secure key handling | Python |
+| [CTF Writeups](https://github.com/stabrea/ctf-writeups) | Security practice across SQL injection, XSS, RSA, network forensics, steganography, and web exploitation | Python, Security Tools |
 
 ---
 
-### Writing
+### Technical Toolkit
 
-- [Building an ML Fraud Detection Pipeline](https://stabrea.github.io/blog/fraud-detection.html)
-- [Automating Multi-State Tax Compliance](https://stabrea.github.io/blog/tax-compliance.html)
-- [Network Security Fundamentals](https://stabrea.github.io/blog/network-security.html)
+**Languages & Data:** Python, SQL, R, JavaScript, TypeScript, Rust, Excel, pandas, NumPy, scikit-learn  
+**Finance / Compliance:** Sales tax compliance, indirect tax, refund claims, audit support, financial modeling, risk analysis  
+**Cybersecurity / GRC:** CompTIA Security+, IT risk, compliance documentation, network security, Linux, fraud detection  
+**Databases & Tools:** PostgreSQL, MySQL, Oracle, Microsoft SQL Server, Git, GitHub, Google Workspace, Microsoft Office
 
 ---
 
 ### Education & Certifications
 
-**Georgia State University** — BBA Finance & BBA CIS (Cybersecurity) | Honors College | GPA: 3.50 | Expected Dec 2026
+**Georgia State University — J. Mack Robinson College of Business**  
+BBA in Finance & Computer Information Systems, Cybersecurity Concentration | Expected Dec 2026  
+GPA: 3.75/4.0 | Honors Award Recipient | Presidential List | Dean's List
 
-**CompTIA Security+** (SY0-701) | **Certified Scrum Master**
+**Georgia State University — Perimeter College**  
+Associate of Science in Business Administration | Completed Nov 2024  
+GPA: 3.87/4.0 | Honors Award Recipient | Presidential List | Dean's List
+
+**CompTIA Security+ (SY0-701)**
 
 ---
 
 <p align="center">
-  <i>Building at the intersection of finance, cybersecurity, and software engineering.</i>
+  <i>Building practical automation at the intersection of finance, cybersecurity, compliance, and risk.</i>
 </p>
